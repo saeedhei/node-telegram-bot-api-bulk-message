@@ -1,6 +1,6 @@
 # Ntba-Bulk-Message
 
-💬 A Bulk Message Sender for node-telegram-bot-api
+💬 A Bulk Message Sender for `node-telegram-bot-api`
 
 
 ### Guide
